@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a75d6be9-b1c7-4eb1-a09e-49f965144a4d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/google_scholar_crawler.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/update_github_myprofile.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shangfenghuang.github.io.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shangfenghuang.github.io.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/github_myprofile_updater/images/logo-sea-header-desktop.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github_myprofile_updater/images/microsoft_logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github_myprofile_updater/images/tiktok.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github_myprofile_updater/update.py" beforeDir="false" />
-    </list>
+    <list default="true" id="a75d6be9-b1c7-4eb1-a09e-49f965144a4d" name="Changes" comment="Initial Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +23,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "true",
     "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -46,11 +39,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711858160481</updated>
-      <workItem from="1711858165037" duration="180000" />
+      <workItem from="1711858165037" duration="500000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1711858386402</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711858386402</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial Commit">
+      <created>1711858485364</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711858485364</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
 </project>
