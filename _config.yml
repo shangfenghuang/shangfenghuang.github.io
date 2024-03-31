@@ -22,7 +22,7 @@ baidu_site_verification  :
 # Site Author
 author:
   name             : "shangfeng Huang"
-  avatar           : "images/shang.png"
+  avatar           : "./images/shang.png"
   bio              : "Phd student, University of Calgary"
   location         : "Calgary, Canada"
   employer         :
