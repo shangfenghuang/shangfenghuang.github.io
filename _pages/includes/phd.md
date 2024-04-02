@@ -1,9 +1,9 @@
-# :male_detective: Phd Research
-- **Building3D Dataset** :+1
+# 🕵️‍♂️ Phd Research
+- **Building3D Dataset** :+1:
 
     A dataset comprising airborne LiDAR point cloud data for large-scale scenes, along with their corresponding wireframe models.
 
-- **Building Wireframe Reconstruction** :+1
+- **Building Wireframe Reconstruction** :+1:
 
   PBWR: A method for wireframe reconstruction based on the Building3D dataset, which directly regresses edges from point clouds.
 
@@ -15,6 +15,6 @@
 
   Requirements for the Phd Program (Literature Review)
 
-- **Candidacy Exam** :100:
+- **Candidacy Exam** 💯
 
   (On going) ohh my god....
