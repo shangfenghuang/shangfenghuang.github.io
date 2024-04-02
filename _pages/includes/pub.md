@@ -39,3 +39,5 @@ Ruisheng Wang, **Shangfeng Huang**, Hongxin Yang
 </div>
 </div>
 
+- [SSA3D: Semantic segmentation assisted one-stage three-dimensional vehicle object detection](https://ieeexplore.ieee.org/document/9652096), **Shangfeng Huang**, Guorong Cai, Zongyue Wang, Qiming Xia, Ruisheng Wang, **TITS**
+- [Detail](https://scholar.google.ca/citations?hl=en&user=iCsHFo4AAAAJ)
