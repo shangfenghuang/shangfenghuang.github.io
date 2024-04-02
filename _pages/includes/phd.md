@@ -1,9 +1,9 @@
 # 🕵️‍♂️ Phd Research
-- **Building3D Dataset** :+1:
+- **Building3D Dataset** 👍
 
     A dataset comprising airborne LiDAR point cloud data for large-scale scenes, along with their corresponding wireframe models.
 
-- **Building Wireframe Reconstruction** :+1:
+- **Building Wireframe Reconstruction** 👍
 
   PBWR: A method for wireframe reconstruction based on the Building3D dataset, which directly regresses edges from point clouds.
 
