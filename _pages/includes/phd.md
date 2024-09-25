@@ -7,14 +7,18 @@
 
   PBWR: A method for wireframe reconstruction based on the Building3D dataset, which directly regresses edges from point clouds.
 
-- **BuildingGPT (On going)**
-
-  A Generative method base on LLM
-
-- **Building3D Reconstruction Review (On going)**
+- **Building3D Reconstruction Review ** 👍
 
   Requirements for the Phd Program (Literature Review)
 
 - **Candidacy Exam** 💯
 
   (On going) ohh my god....
+
+- **BuildingGPT (On going)**
+
+  A Generative method base on LLM
+
+- **DeepRoofs (On going)**
+
+  Refactor the code and Edit the manuscript
