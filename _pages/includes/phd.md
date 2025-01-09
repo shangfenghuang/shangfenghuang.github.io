@@ -23,15 +23,15 @@
 
   Refactor the code and Edit the manuscript
 
-# Grades on Phd
+# 📖 on Phd
 
-| Title                           | Units | Grade |
-|---------------------------------|-------|-------|
-| Spatial Databases & DataMining  | 3     | A-    |
+| Title                          | Units | Grade |
+|--------------------------------|:---:|:---:|
+| Spatial Databases & DataMining | 3     | A-    |
 | Digital Imaging and Application | 3     | A     |
-| Data Analysis in Engineering | 3     | A-    |
-| Advanced Geospatial Topics | 3     | A     |
-| Optical Imaging Metrology | 3     | A     |
-| Geospatial Vision | 3     | A     |
-| Professional Development I | 1.5   | CR     |
-| Professional Development II| 1.5   | CR     |
+| Data Analysis in Engineering   | 3     | A-    |
+| Advanced Geospatial Topics     | 3     | A     |
+| Optical Imaging Metrology      | 3     | A     |
+| Geospatial Vision              | 3     | A     |
+| Professional Development I     | 1.5   | CR     |
+| Professional Development II    | 1.5   | CR     |
