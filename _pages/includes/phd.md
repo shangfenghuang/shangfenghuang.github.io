@@ -25,13 +25,13 @@
 
 # 📖 Grades on Phd
 
-| Title                          | Units | Grade |
-|--------------------------------|:---:|:---:|
-| Spatial Databases & DataMining | 3     | A-    |
-| Digital Imaging and Application | 3     | A     |
-| Data Analysis in Engineering   | 3     | A-    |
-| Advanced Geospatial Topics     | 3     | A     |
-| Optical Imaging Metrology      | 3     | A     |
-| Geospatial Vision              | 3     | A     |
-| Professional Development I     | 1.5   | CR     |
-| Professional Development II    | 1.5   | CR     |
+| Course Number | Title                          | Units | Grade |
+|:-------------:|--------------------------------|:---:|:---:|
+|  ENGO - 645   | Spatial Databases & DataMining        | 3     | A-    |
+|  ENGO - 659   | Digital Imaging and Application       | 3     | A     |
+|  ENGO - 664   | Data Analysis in Engineering          | 3     | A-    |
+|  ENGO - 651   | Advanced Geospatial Topics            | 3     | A     |
+|  ENGO - 642   | Optical Imaging Metrology             | 3     | A     |
+|  ENGO - 610   | Geospatial Vision                     | 3     | A     |
+|  ENGG - 601   | Professional Development I            | 1.5   | CR     |
+|  ENGG - 602   | Professional Development II           | 1.5   | CR     |
