@@ -23,7 +23,7 @@
 
   Refactor the code and Edit the manuscript
 
-# 📖 on Phd
+# 📖 Grades on Phd
 
 | Title                          | Units | Grade |
 |--------------------------------|:---:|:---:|
