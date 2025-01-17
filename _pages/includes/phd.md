@@ -11,27 +11,41 @@
 
   Requirements for the Phd Program (Literature Review)
 
-- **Candidacy Exam** 
+- **Candidacy Exam** 👍
 
-  ohh my god....
+  Pass
 
-- **BuildingGPT (On going)**
+- **BuildingGPT Method (On going)** 🔥
 
-  A Generative method base on LLM
+  A foundation models
+
+- **BuildingWorld Dataset (On going)**🔥
+
+  A Building dataset from around the world
 
 - **DeepRoofs (On going)**
 
   Refactor the code and Edit the manuscript
 
-# 📖 Grades on Phd
+[//]: # (# 📖 Grades on Phd)
 
-| Course Number | Title                          | Units | Grade |
-|--------------|--------------------------------|:---:|:---:|
-| ENGO - 645   | Spatial Databases & DataMining        | 3     | A-    |
-| ENGO - 659   | Digital Imaging and Application       | 3     | A     |
-| ENGO - 664   | Data Analysis in Engineering          | 3     | A-    |
-| ENGO - 651   | Advanced Geospatial Topics            | 3     | A     |
-| ENGO - 642   | Optical Imaging Metrology             | 3     | A     |
-| ENGO - 610   | Geospatial Vision                     | 3     | A     |
-| ENGG - 601   | Professional Development I            | 1.5   | CR     |
-| ENGG - 602   | Professional Development II           | 1.5   | CR     |
+[//]: # ()
+[//]: # (| Course Number | Title                          | Units | Grade |)
+
+[//]: # (|--------------|--------------------------------|:---:|:---:|)
+
+[//]: # (| ENGO - 645   | Spatial Databases & DataMining        | 3     | A-    |)
+
+[//]: # (| ENGO - 659   | Digital Imaging and Application       | 3     | A     |)
+
+[//]: # (| ENGO - 664   | Data Analysis in Engineering          | 3     | A-    |)
+
+[//]: # (| ENGO - 651   | Advanced Geospatial Topics            | 3     | A     |)
+
+[//]: # (| ENGO - 642   | Optical Imaging Metrology             | 3     | A     |)
+
+[//]: # (| ENGO - 610   | Geospatial Vision                     | 3     | A     |)
+
+[//]: # (| ENGG - 601   | Professional Development I            | 1.5   | CR     |)
+
+[//]: # (| ENGG - 602   | Professional Development II           | 1.5   | CR     |)
